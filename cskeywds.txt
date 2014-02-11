@@ -1,0 +1,115 @@
+adhoc
+adobe
+ajax
+algorithm
+algorithms
+android
+animation
+application
+applications
+architecture
+artificial intelligence
+bootstrap
+bugs
+c
+c++
+case tool
+case tools
+ccna
+cloud
+compiler
+compilers
+computer
+computing
+cryptography
+css
+database
+data structure
+data structures
+dbms
+debian
+debug
+digital
+distributed system
+distributed systems
+dotnet
+dot net
+dreamweaver
+drivers
+eclipse
+embedded
+embedded system
+embedded systems
+erp
+firmware
+graph
+graphics
+grid computing
+icpc
+image processing
+internet
+j2me
+java
+jscript
+kernal
+linux
+maintenance
+microprocessor
+microprocessors
+microsoft
+middleware
+mobile
+mysql
+nosql
+netbeans
+network
+networking
+networks
+nlp
+object oriented
+open source
+operating system
+operating systems
+oracle
+os
+perl
+photoshop
+php
+platform
+program
+programmable
+programming
+programming languages
+programming language
+programs
+python
+queries
+query
+real time
+ruby
+script
+scripting
+semantic
+shell
+software
+spoj
+sql
+test
+testing
+topcoder
+ubuntu
+unix
+use case
+use cases
+web
+website
+windows
+coding
+code
+soap
+wlan
+white box
+black box
+uml
+xml
+virtualization

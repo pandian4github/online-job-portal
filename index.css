@@ -1,0 +1,27 @@
+#entryform
+{
+	margin:30px;
+	padding-left: 15%;
+}
+#entryform .control-label
+{
+	font-size:1.2em;
+	font-weight: bold;
+}
+#entryform input,select
+{
+	border:1px solid black;
+}
+#entryform select:hover
+{
+	border:1px solid red;
+}
+#entryform input:hover
+{
+	border:1px solid red;
+}
+#entryhead
+{
+	color:brown;
+	font-size:2em;
+}

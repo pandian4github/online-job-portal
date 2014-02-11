@@ -1,0 +1,131 @@
+body
+{
+	background:rgb(40,40,40);
+}
+#toprow
+{
+	padding-top:30px;
+	padding-bottom: 30px;
+	font-size: 2.5em;
+	color:white;
+	letter-spacing: 6px;
+	background: black;
+}
+.hidden
+{
+	display: none;
+}
+.visible
+{
+	display: block;
+}
+#main-content
+{
+	background:whitesmoke;
+	padding:20px;
+	padding-left:30px;
+	border:1px solid black;
+	border-radius: 25px;
+	margin-top: 10px;
+}
+#leftsidebar
+{
+	margin-top: 20px;
+	padding:25px;
+	font-size: 1.1em;
+}
+#leftsidebar a
+{
+	border:1px solid black;
+	color:white;
+}
+#leftsidebar a:hover
+{
+	color:black;
+	font-weight: bold;
+	background:lightgreen;
+}
+#main-head
+{
+	color:cyan;
+}
+#changepass a
+{
+	color:white;
+	text-decoration:none;
+}
+#changepass a:hover
+{
+	color:cyan;
+}
+#logout a
+{
+	color:white;
+	text-decoration:none;
+}
+#logout a:hover
+{
+	color:cyan;
+}
+#rightsidebar
+{
+	margin-top: 10px;
+	padding: 25px;
+	font-size: 1.1em;
+}
+#rightsidebar a 
+{
+	color:white;
+	text-decoration: none;
+}
+#rightsidebar li
+{
+	color: white;
+	font-size: 1.1em;
+}
+#rightsidebar a:hover
+{
+	color:black;
+	background: lightgreen;
+	font-weight: bold;
+}
+#rightsidebar a 
+{
+	padding-top:10px;
+	padding-bottom: 10px;
+	border:1px solid black;
+	margin-top: 10px;
+}
+#rightsidebar #head
+{
+	padding-left: 5px;
+	font-size: 1.2em;
+	color:darkgrey;
+	padding-bottom: 10px;
+}
+hr
+{
+	border-color:darkgrey;
+}
+#footer
+{
+	margin-top: 20px;
+	background: black;
+	line-height:90%;
+}
+#footer a
+{
+	color:white;
+}
+#footer a:hover
+{
+	text-decoration: none;
+	color:cyan;
+}
+#navbar
+{
+	padding-left: 15%;
+	font-size: 18px;
+	letter-spacing: 2px;
+	font-weight: bold;
+}

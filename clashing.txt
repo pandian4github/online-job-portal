@@ -1,0 +1,12 @@
+distributed
+embedded
+oriented
+computing
+processing
+mining
+networking
+operating
+programming
+testing
+scripting
+coding

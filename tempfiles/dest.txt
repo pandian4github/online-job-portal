@@ -1,0 +1,10 @@
+Name : Pandian
+Address : Chennai
+Contact : 9486088421
+Email id : pandian4mail@gmail.com
+Languages known : C,C++, Java
+Technical skills : SPOJ
+Achievements : Topcoder
+Field of interst : Data structures
+Other talents : Algorithms
+Hobbies : Rubik's cube.

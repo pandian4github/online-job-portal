@@ -1,0 +1,30 @@
+Company name : ABC
+Address : Chennai
+Name : Raj
+Phone : 9857465746
+Email id : raj@gmail.com
+Requirements : Key Responsibilities:
+
+· Administration, monitoring and troubleshooting system issues, including occasional out of hours sys admin support.
+
+· Analyzing system and identifying potential issues with computer systems
+
+· System performance
+
+· Introducing and integrating new technologies into existing data centre environments
+
+· Applying operating updates, patches, and configuration changes
+
+· Installing and configuring new hardware and software
+
+· Upgrades system by conferring with peers, vendors and services; developing, testing, evaluating, and installing enhancements and new software/hardware.
+
+· Answering technical queries
+
+· Answering trouble ticket requests
+
+· Troubleshooting any reported problems
+
+· Responsibility for security
+
+· Secures system by developing system access, monitoring, control, and evaluation; establishing and testing disaster recov

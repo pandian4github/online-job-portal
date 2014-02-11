@@ -1,0 +1,6 @@
+Company name : GHI
+Address : Bangalore
+Name : Karthi
+Phone : 9233333335
+Email id : karthikeyan@gmail.com
+Requirements : Topcoder, SPOJ.

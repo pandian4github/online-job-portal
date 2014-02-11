@@ -1,0 +1,6 @@
+Company name : XYZ
+Address : Chennai
+Name : Ashwin
+Phone : 9585505899
+Email id : ash.fastfire@gmail.com
+Requirements : Machine learning, manufacturing and excavation.

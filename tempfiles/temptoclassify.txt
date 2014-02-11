@@ -1,0 +1,105 @@
+Key Responsibilities:
+
+· Administration, monitoring and troubleshooting system issues, including occasional out of hours sys admin support.
+
+· Analyzing system and identifying potential issues with computer systems
+
+· System performance
+
+· Introducing and integrating new technologies into existing data centre environments
+
+· Applying operating updates, patches, and configuration changes
+
+· Installing and configuring new hardware and software
+
+· Upgrades system by conferring with peers, vendors and services; developing, testing, evaluating, and installing enhancements and new software/hardware.
+
+· Answering technical queries
+
+· Answering trouble ticket requests
+
+· Troubleshooting any reported problems
+
+· Responsibility for security
+
+· Secures system by developing system access, monitoring, control, and evaluation; establishing and testing disaster recovery policies and procedures; completing back-ups; maintaining documentation
+
+· Defining clear engineering level requirements for projects.
+
+· Clear design of solution of systems to meet requirements.
+
+· Generation of reliable time and effort estimates for projects.
+
+· Taking test and proof of concept implementations from the engineering teams and productionise these systems to ensure security and reliability
+
+· Responsibility for documenting the configuration of the system
+
+· Performing routine audits of systems and software
+
+· Performing backups
+
+· Ability to stay focused on priority tasks but understand they work as a part of a team.
+
+· Self motivation on isolated tasks.
+
+· Manage time and priorities, ability to scope and then deliver projects on time.
+
+· Able to pick up new areas of knowledge and get up to speed quickly
+
+· Must be a good team player
+
+Qualifications
+
+Required Experience/Skills & Education:
+
+· In-depth knowledge of various linux distributions, primarily RedHat and CentOS.
+
+· A minimum of 7+ years of Linux experience in production environment, administrating in a large scale environment
+
+· Strong shell scripting skills in Perl, bash/csh, python and/or ruby.
+
+· Focus on automation for software deployment, including applications, patching, and system build.
+
+· Experience with a system management tool such as puppet, chef, or cfengine
+
+· Experience of VMWare ESX Server.
+
+· Able to configure IPTables
+
+· Familiarity with network architecture and design to aid in troubleshooting host based network issues.
+
+· Able to create and maintain software repositories (apt, and yum)
+
+· Able to create and maintain Software packages (rpm, deb).
+
+· Knowledge of kernel tuneables including the IO schedulers, memory settings, and networking buffers.
+
+· Strong focus on documentation.
+
+· Experience with system monitoring tools such as Nagios and Cacti
+
+· Ability to understand Developer requirements and translate them into a working maintainable system.
+
+· Able to configure a NetApp filer, or other SAN and NAS systems.
+
+· In-depth knowledge of virtualization platforms (Xen or VMWare)
+
+· Experience with web servers such as apache, resin, tomcat, or nginx
+
+· Experience with MTA’s such as postfix, exim, or sendmail
+
+· Ability to configure dns
+
+· Works well in a fast paced team environment
+
+· Able to troubleshoot complex problems.
+
+· Excellent written and verbal communication skills
+
+· Proven skills with identifying and presenting Root Cause Analysis in a clear and concise manor
+
+McAfee, a wholly owned subsidiary of Intel Corporation (NASDAQ:INTC), is the world's largest dedicated security technology company. We are relentlessly focused on constantly finding new ways to keep our customers safe. Share your talents with us in the dynamic security industry, and experience the meaningful, interesting work that is waiting for you!
+
+McAfee is an Equal Employment Opportunity employer. We celebrate diversity!
+
+Click here for full EEO statement.
